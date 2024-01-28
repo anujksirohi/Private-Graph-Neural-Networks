@@ -1,1 +1,1 @@
-# Private-Graph-Neural-Networks-
+# Private-Graph-Neural-Networks
